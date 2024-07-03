@@ -4,7 +4,7 @@ go 1.21.3
 
 require (
 	github.com/drone/go-convert v0.0.0-20230919093251-7104c3bcc635
-	github.com/jamie-harness/go-convert v0.0.0-20231206234941-3e9a600a548a
+	github.com/jamie-harness/go-convert v0.0.2
 )
 
 require (

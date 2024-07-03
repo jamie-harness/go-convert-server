@@ -16,14 +16,8 @@ github.com/google/subcommands v1.2.0 h1:vWQspBTo2nEqTUFita5/KeEWlUL8kQObDFbub/EN
 github.com/google/subcommands v1.2.0/go.mod h1:ZjhPrFU+Olkh9WazFPsl27BQ4UPiG37m3yTrtFlrHVk=
 github.com/gotidy/ptr v1.4.0 h1:7++suUs+HNHMnyz6/AW3SE+4EnBhupPSQTSI7QNijVc=
 github.com/gotidy/ptr v1.4.0/go.mod h1:MjRBG6/IETiiZGWI8LrRtISXEji+8b/jigmj2q0mEyM=
-github.com/jamie-harness/go-convert v0.0.0-20231205193310-9683ca3817ba h1:2Ux+5fy+0GhOUJ+PJ3Yg8+Zsyhq9leJ2vQ6tsXYp6oQ=
-github.com/jamie-harness/go-convert v0.0.0-20231205193310-9683ca3817ba/go.mod h1:iDsRyXibogU8r+gXxMAfwqB1Vi1Eu4ZbKueFUg4KIUc=
-github.com/jamie-harness/go-convert v0.0.0-20231205194210-9252bd76cac4 h1:zMpgaJyYGxzwYYW4ogOnDNA3FaGB5tTkX9zf585oWVI=
-github.com/jamie-harness/go-convert v0.0.0-20231205194210-9252bd76cac4/go.mod h1:iDsRyXibogU8r+gXxMAfwqB1Vi1Eu4ZbKueFUg4KIUc=
-github.com/jamie-harness/go-convert v0.0.0-20231206234609-d2b2d2861f65 h1:W9Pe9/NCGQiiXuAJasY9lwWC5oaNEdqHyAxql6aOSzM=
-github.com/jamie-harness/go-convert v0.0.0-20231206234609-d2b2d2861f65/go.mod h1:PKf35JOYuyRXUehwgQZl3O82J/ZcSFscO3TJDvCyeAo=
-github.com/jamie-harness/go-convert v0.0.0-20231206234941-3e9a600a548a h1:gDEwkV+IJn2GaALPx5Cd2Kjfe49qYmUOwBncWRyh6k8=
-github.com/jamie-harness/go-convert v0.0.0-20231206234941-3e9a600a548a/go.mod h1:PKf35JOYuyRXUehwgQZl3O82J/ZcSFscO3TJDvCyeAo=
+github.com/jamie-harness/go-convert v0.0.2 h1:774CxMYfEaysx7mTAhLcf5zW20RHmWUk+fzQbkA8VUw=
+github.com/jamie-harness/go-convert v0.0.2/go.mod h1:iDsRyXibogU8r+gXxMAfwqB1Vi1Eu4ZbKueFUg4KIUc=
 golang.org/x/text v0.13.0 h1:ablQoSUd0tRdKxZewP80B+BaqeKJuVhuRxj/dkrun3k=
 golang.org/x/text v0.13.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=

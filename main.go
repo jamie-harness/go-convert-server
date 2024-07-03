@@ -49,7 +49,7 @@ func uploadFile(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		fmt.Println("error: ", err)
 	}
-	fmt.Println(converted)
+	// fmt.Println(converted)
 	d := downgrader.New(
 		downgrader.WithCodebase("", ""),
 		downgrader.WithDockerhub(""),
