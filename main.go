@@ -107,7 +107,7 @@ func uploadFile(w http.ResponseWriter, r *http.Request) {
 		downgrader.WithCodebase(CodebaseAPI, CodebaseToken),
 		downgrader.WithDockerhub(DockerhubCredentials),
 		downgrader.WithKubernetes(KubernetesAPI, KubernetesToken),
-		downgrader.WithName(jenkinsData.Name),
+		downgrader.WithName(cleanFileName(newFilename)),
 		downgrader.WithOrganization(DowngraderOrg),
 		downgrader.WithProject(DowngraderProject),
 	)
@@ -119,8 +119,8 @@ func uploadFile(w http.ResponseWriter, r *http.Request) {
 	}
 
 	// Output the converted pipeline to stdout and send it as an HTTP response
-	os.Stdout.Write(converted)
-	fmt.Fprintf(w, string(converted[:]))
+	// os.Stdout.Write(converted)
+	fmt.Fprint(w, string(converted[:]))
 }
 
 func uploadHandler(w http.ResponseWriter, r *http.Request) {

@@ -7,7 +7,7 @@ const (
 	KubernetesToken      = ""
 	CodebaseAPI          = ""
 	CodebaseToken        = ""
-	DowngraderName       = "your-name"
+	DowngraderName       = "jsonfilenameplaceholder"
 	DowngraderOrg        = "default"
 	DowngraderProject    = "default"
 
