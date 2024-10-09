@@ -11,7 +11,7 @@ import (
     "strings"
 
 	"github.com/drone/go-convert/convert/harness/downgrader"
-	"github.com/jamie-harness/go-convert/convert/jenkinsjson"
+	"github.com/drone/go-convert/convert/jenkinsjson"
 )
 
 type JenkinsJSON struct {
