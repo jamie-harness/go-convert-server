@@ -3,7 +3,7 @@ module github.com/jamie-harness/go-convert-server
 go 1.21.3
 
 // github.com/drone/go-convert v0.0.0-20240307072510-6bd371c65e61
-require github.com/drone/go-convert v0.0.0-20241009001058-fc678394c1fd
+require github.com/drone/go-convert v0.0.0-20241010164125-cd856e41d810
 
 require (
 	github.com/docker/go-units v0.5.0 // indirect
