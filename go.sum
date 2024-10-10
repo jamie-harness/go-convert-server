@@ -1,7 +1,7 @@
 github.com/docker/go-units v0.5.0 h1:69rxXcBk27SvSaaxTtLh/8llcHD8vYHT7WSdRZ/jvr4=
 github.com/docker/go-units v0.5.0/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
-github.com/drone/go-convert v0.0.0-20241009001058-fc678394c1fd h1:84/v0TwCA0CLICFWZRMZ7RnwxvF+xLY2ZxEyfL8Sa9M=
-github.com/drone/go-convert v0.0.0-20241009001058-fc678394c1fd/go.mod h1:X5AAEeKTZ2NiGcd2tTyRBdLYHrEbjYkyXFBvB1EK07E=
+github.com/drone/go-convert v0.0.0-20241010164125-cd856e41d810 h1:8YB0pZGBrmkdXsJdM5XQ4X1ssDW8GQf5SI4P91//WBY=
+github.com/drone/go-convert v0.0.0-20241010164125-cd856e41d810/go.mod h1:X5AAEeKTZ2NiGcd2tTyRBdLYHrEbjYkyXFBvB1EK07E=
 github.com/drone/spec v0.0.0-20230920145636-3827abdce961 h1:aUWrLS2ghyxIpDICpZOV50V1x7JLM3U80UQDQxMKT54=
 github.com/drone/spec v0.0.0-20230920145636-3827abdce961/go.mod h1:KyQZA9qwuscbbM7yTrtZg25Wammoc5GKwaRem8kDA5k=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
